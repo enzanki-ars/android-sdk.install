@@ -11,7 +11,7 @@
     <authors>Google Inc.</authors>
     <projectUrl>https://developer.android.com/studio/index.html</projectUrl>
     <iconUrl>https://developer.android.com/studio/images/studio-icon.png</iconUrl>
-    <copyright>2012</copyright>
+    <copyright>2009-2012 The Android Open Source Project</copyright>
     <licenseUrl>https://developer.android.com/studio/terms.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://developer.android.com/studio/intro/index.html/</docsUrl>
